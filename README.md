@@ -6,7 +6,7 @@ First, make sure you have python and Git installed. Then:
 
 ```bash
 # Clone the Recursion-Demos repo in a directory of your choice
-$ git clone https://github.coecis.cornell.edu/kxw2/Recursion-Demos.git
+$ git clone https://github.com/kwang21093/Recursion-Demos.git
 
 # Enter the repo
 $ cd Recursion-Demos/
